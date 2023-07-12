@@ -122,4 +122,3 @@ Resources:
         - Key: Name
           Value: !Ref AWS::StackName
 
-Outputs:
